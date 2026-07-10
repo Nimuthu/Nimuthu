@@ -86,13 +86,4 @@ Contributed to a car rental and ride-hailing ecosystem automating the vehicle le
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimuthu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimuthu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 <p align="center"><i>Powered by caffeine & curiosity — currently building modular POS systems, learning the hard way on purpose.</i></p>
