@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/nimuthu-paranawithana](https://www.linkedin.com/in/nimuthu-paranawithana/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nimuthu-paranawithana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nimuthuwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/TorriMac"><img src="https://img.shields.io/badge/Org-TorriMac-4B5563?style=flat&logo=github&logoColor=white" alt="TorriMac Org"/></a>
 </p>
 
 ---
@@ -70,6 +71,22 @@ Third-year Software Engineering (Hons) student at the Java Institute for Advance
 
 ---
 
+### 🏢 TorriMac — The Organization
+
+I co-founded and lead engineering at **[TorriMac](https://github.com/TorriMac)**, building a modular suite of POS and business-management apps:
+
+| Repo | Description |
+|---|---|
+| **POS-App** | Offline-first desktop POS (Torrimac POS — see below) |
+| **GPOS-Admin** | Web admin dashboard for staff, inventory & sales |
+| **GPOS-Pharmacy** | Pharmacy-specific inventory & compliance module |
+| **GPOS-Restaurant** | Restaurant-focused POS variant |
+| **EventServiceProto** | Event-service prototype |
+
+*(Most of these are private client/product repos — [follow the org](https://github.com/TorriMac) to stay updated as pieces go public.)*
+
+---
+
 ### 🏗️ Featured Projects
 
 **[Torrimac POS](https://github.com/Nimuthu) — Offline-First POS & Pharmacy Inventory System**
@@ -83,6 +100,15 @@ Web-based admin panel for staff, inventory, and sales management for the Torrima
 **[RydeFlexi](https://rydeflexi.com) — Car Rental & Ride-Hailing Platform**
 `Front-End Development`
 Contributed to a car rental and ride-hailing ecosystem automating the vehicle leasing lifecycle — driver onboarding workflows, automated rental requests, a smart pricing engine, and PayHere payment integration.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimuthu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimuthu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
