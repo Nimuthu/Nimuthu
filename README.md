@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Nimuthu 👋</h1>
+<h1 align="center">hey I'm Nimuthu</h1>
 <h3 align="center">Full-Stack Software Engineer | Building Torrimac | 3rd-yr SWE Student</h3>
 
 <p align="center">
-  🛠️ Currently building <b>Torrimac POS</b> — an offline-first desktop POS & pharmacy inventory system<br/>
-  🔐 Security-first by default, not as an afterthought<br/>
-  🎨 Background in 3D modelling, game dev & UI/UX that shapes how I build products<br/>
+  Currently building <b>Torrimac POS</b> — an offline-first desktop POS & pharmacy inventory system<br/>
+  Security-first by default, not as an afterthought<br/>
+  Background in 3D modelling, game dev & UI/UX that shapes how I build products<br/>
   🇱🇰 Based in Sri Lanka
 </p>
 
@@ -16,13 +16,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 Third-year Software Engineering (Hons) student at the Java Institute for Advanced Technology, Sri Lanka, with hands-on experience founding and building production software. I'm co-founder and lead engineer at **Torrimac**, where I architect full-stack, offline-first systems with a strong focus on security, reliability, and clean UX. I pick up new stacks fast and enjoy owning projects end-to-end — from database schema to pixel-level UI polish.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Frontend**
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -71,7 +71,7 @@ Third-year Software Engineering (Hons) student at the Java Institute for Advance
 
 ---
 
-### 🏢 TorriMac — The Organization
+###  TorriMac — The Organization
 
 I co-founded and lead engineering at **[TorriMac](https://github.com/TorriMac)**, building a modular suite of POS and business-management apps:
 
@@ -87,7 +87,7 @@ I co-founded and lead engineering at **[TorriMac](https://github.com/TorriMac)**
 
 ---
 
-### 🏗️ Featured Projects
+###  Featured Projects
 
 **[Torrimac POS](https://github.com/Nimuthu) — Offline-First POS & Pharmacy Inventory System**
 `Electron` `React 19` `TypeScript` `SQLite` `Prisma` `Supabase (PostgreSQL)`
@@ -103,7 +103,7 @@ Contributed to a car rental and ride-hailing ecosystem automating the vehicle le
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimuthu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
