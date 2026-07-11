@@ -1,11 +1,11 @@
-<h1 align="center">hey I'm Nimuthu</h1>
+<h1 align="center">Hi, I'm Nimuthu</h1>
 <h3 align="center">Full-Stack Software Engineer | Building Torrimac | 3rd-yr SWE Student</h3>
 
 <p align="center">
   Currently building <b>Torrimac POS</b> — an offline-first desktop POS & pharmacy inventory system<br/>
   Security-first by default, not as an afterthought<br/>
   Background in 3D modelling, game dev & UI/UX that shapes how I build products<br/>
-  🇱🇰 Based in Sri Lanka
+  Based in Sri Lanka
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ---
 
-###  About Me
+### About Me
 
 Third-year Software Engineering (Hons) student at the Java Institute for Advanced Technology, Sri Lanka, with hands-on experience founding and building production software. I'm co-founder and lead engineer at **Torrimac**, where I architect full-stack, offline-first systems with a strong focus on security, reliability, and clean UX. I pick up new stacks fast and enjoy owning projects end-to-end — from database schema to pixel-level UI polish.
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Frontend**
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -71,7 +71,7 @@ Third-year Software Engineering (Hons) student at the Java Institute for Advance
 
 ---
 
-###  TorriMac — The Organization
+### TorriMac — The Organization
 
 I co-founded and lead engineering at **[TorriMac](https://github.com/TorriMac)**, building a modular suite of POS and business-management apps:
 
@@ -87,7 +87,7 @@ I co-founded and lead engineering at **[TorriMac](https://github.com/TorriMac)**
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 **[Torrimac POS](https://github.com/Nimuthu) — Offline-First POS & Pharmacy Inventory System**
 `Electron` `React 19` `TypeScript` `SQLite` `Prisma` `Supabase (PostgreSQL)`
@@ -101,9 +101,17 @@ Web-based admin panel for staff, inventory, and sales management for the Torrima
 `Front-End Development`
 Contributed to a car rental and ride-hailing ecosystem automating the vehicle leasing lifecycle — driver onboarding workflows, automated rental requests, a smart pricing engine, and PayHere payment integration.
 
+**[Ryde Owners Dashboard](https://github.com/Danukaji-Hansanath0/ryde-owners2.1) — Partner Owners Admin Panel**
+`Front-End Development`
+Admin-side owners dashboard built for a RydeFlexi partner company, giving vehicle owners visibility and control over their listings within the rental ecosystem.
+
+**[Aero Parking](https://github.com/Nimuthu/aero-parking) — Airport Parking Reservation App**
+`Front-End Development`
+Reservation app for another RydeFlexi partner company, letting tourists book and reserve vehicle parking spots on company grounds near the airport.
+
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimuthu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -112,4 +120,4 @@ Contributed to a car rental and ride-hailing ecosystem automating the vehicle le
 
 ---
 
-<p align="center"><i>Powered by caffeine & curiosity — currently building modular POS systems, learning the hard way on purpose.</i></p>
+<p align="center"><i>Powered by caffeine and curiosity — currently building modular POS systems, learning the hard way on purpose.</i></p>
